@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleLogin</string>
+    <string name="logout">LogOut</string>
+    <string name="server_clientid">1007249321703-psf3ln7jngqjkgc219l6i69ulh1mgngn.apps.googleusercontent.com </string>
+    <string name="server_clientsecret">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 </string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+</resources>
